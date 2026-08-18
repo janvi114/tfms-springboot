@@ -1,0 +1,8 @@
+/* Additional custom styles if needed */
+.stat-card {
+    transition: transform 0.3s ease;
+}
+
+.stat-card:hover {
+    transform: translateY(-10px);
+}
